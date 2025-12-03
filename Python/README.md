@@ -1,3 +1,3 @@
 ## Solved Problems
 
-Nested_List.py -> HackerRank-Nested List Problem
+Nested_List.py -> HackerRank-Nested List Solution
